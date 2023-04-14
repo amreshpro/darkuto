@@ -1,0 +1,29 @@
+{
+  "name": "darkuto-theme",
+  "displayName": "Darkuto Dark Theme ",
+  "description": "A dark theme which make  you  feel happy during code.",
+  "icon": "logo.png",
+  "version": "0.0.1",
+  "publisher": "AmreshMaurya1234",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/ursamresh/darkuto"
+  },
+  "categories": [
+    "Themes"
+  ],
+
+  "keywords": ["darkuto","Amresh","daruto","Amresh Maurya","ursamresh","Dark Darkuto Theme","Darkuto Theme","amresh","darkuto-theme"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "darkuto",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darkuto-color-theme.json"
+      }
+    ]
+  }
+}
