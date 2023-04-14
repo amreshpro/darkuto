@@ -12,3 +12,7 @@
 
 ### html
 ![html](images/html.png)
+
+## Installation Guide in VSCode
+- Search darkuto in VSCode
+![install-guide](images/install.png)
