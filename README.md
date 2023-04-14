@@ -1,5 +1,5 @@
 # Darkuto Dark Theme
-![logo]("logo.png")
+![logo](https://github.com/ursamresh/darkuto/logo.png)
 
 
 
