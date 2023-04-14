@@ -1,5 +1,5 @@
 # Darkuto Dark Theme
-![logo]("./logo.png")
+![logo]("logo.png")
 
 
 
